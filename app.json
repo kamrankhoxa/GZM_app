@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "gzm_app",
-    "slug": "",
+    "slug": "gzm-app",
     "owner": "k_k_solutions",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -30,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3f8aefdb-9b0d-42fd-8cfa-a6afe973d4ab"
+      }
     }
   }
 }
